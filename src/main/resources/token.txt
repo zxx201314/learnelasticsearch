@@ -1,0 +1,2 @@
+git remote set-url origin https://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@github.com/zxx201314/learnelasticsearch.git
+git push --set-upstream origin master
